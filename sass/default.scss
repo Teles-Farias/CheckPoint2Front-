@@ -2,6 +2,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 15px;
   @include variables-and-mixins.media(600px) {
     font-size: 12px;
   }
