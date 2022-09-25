@@ -26,6 +26,13 @@
   background-image: url("../img/banner-gabriel.jpg");
 }
 
+.banner.casemiro {
+  background-image: url("../img/casemiro-banner.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  object-fit: cover;
+}
+
 body {
   background: #F1F1F1;
 }
