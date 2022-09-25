@@ -13,6 +13,11 @@
   object-fit: cover;
 }
 
+.banner.gabriel {
+  background-attachment: scroll;
+  background-image: url("../img/banner-gabriel.jpg");
+}
+
 body {
   background: #F1F1F1;
 }
