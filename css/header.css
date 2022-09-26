@@ -10,6 +10,9 @@
   background: #000;
   border-bottom: 3px solid #FFF;
   padding: 10px;
+  position: sticky;
+  top: 0px;
+  z-index: 3;
 }
 .header-nav .menu-mobile {
   display: none;
