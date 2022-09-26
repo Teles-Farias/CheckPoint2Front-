@@ -33,8 +33,15 @@
   object-fit: cover;
 }
 
+.banner.richarlison {
+  background-image: url("../img/banner-richarlison.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  object-fit: cover;
+}
+
 body {
-  background: #F1F1F1;
+  background: #f1f1f1;
 }
 
 body .navegacao {
@@ -47,7 +54,7 @@ body .navegacao {
 
 body .navegacao img {
   width: 100%;
-  background: #FFF;
+  background: #fff;
   border-radius: 50%;
 }
 
@@ -105,7 +112,7 @@ body .navegacao img {
 }
 
 .jogadores p strong {
-  color: #127ADA;
+  color: #127ada;
   font-weight: 400;
 }
 
