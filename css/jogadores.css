@@ -40,6 +40,13 @@
   object-fit: cover;
 }
 
+.banner.paqueta {
+  background-image: url("../img/banner-paqueta.jpg");
+  background-attachment: scroll;
+  background-size: cover;
+  object-fit: cover;
+}
+
 body {
   background: #f1f1f1;
 }
